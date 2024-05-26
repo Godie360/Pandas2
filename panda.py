@@ -9,3 +9,5 @@ data = {'Name': ['Aman', 'Akanksha', 'Akshit',
                    65000, 60000, 55000]}
 df = pd.DataFrame(data)
 print(df.loc[3])
+
+app = "sk-proj-j84ZTUFiYC00I1AuQYGBT3BlbkFJJ3w0V0KeJPQ4VUtHLvfu"
